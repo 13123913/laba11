@@ -13,3 +13,5 @@ C:\Users\user.COMP-02\source\repos\lab11\obj\Debug\lab11.csproj.CoreCompileInput
 C:\Users\user.COMP-02\source\repos\lab11\obj\Debug\lab11.exe
 C:\Users\user.COMP-02\source\repos\lab11\obj\Debug\lab11.pdb
 C:\Users\user.COMP-02\source\repos\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\source\repos\lab11\obj\Debug\Window1.g.cs
+C:\Users\user.COMP-02\source\repos\lab11\obj\Debug\Window1.baml
